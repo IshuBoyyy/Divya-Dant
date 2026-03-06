@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 from PIL import Image
 
 # --- APP INTERFACE SETUP ---
-st.set_page_config(page_title="ResoDent IRIS", page_icon="🦷", layout="centered")
-st.title("🦷 ResoDent IRIS Mobile")
+st.set_page_config(page_title="DivyaDant", page_icon="🦷", layout="centered")
+st.title("🦷 DivyaDant Mobile")
 st.markdown("Upload a pitch-black laser capture to generate a smooth optical profile.")
 
 # --- FILE UPLOADER (Taps into your phone's camera roll) ---
